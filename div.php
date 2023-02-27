@@ -9,7 +9,7 @@
 </head>
 <body>
     <?php
-        //for(inizializzazione variabile di controllo; controllo; incremento) {istruzione da ripetere}
+        //for(inizializzazione variabile di controllo; controllo; incremento) {istruzione da ripetere} CICLO FOR
         for($i=1;$i<20;$i=$i+1) {
             echo "<div>". $i ."</div>";
         }   
